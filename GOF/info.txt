@@ -1,0 +1,1 @@
+23 GOF Design patterns applied to Statistics
